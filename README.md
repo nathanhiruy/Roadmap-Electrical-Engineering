@@ -1,5 +1,8 @@
 # Roadmap Electrical Engineering
 
+## 0. Base knowledge
+<img src="maxresdefault.jpg" alt="Missing image" width="fit"/>
+
 ## 1. Technical Skills
 
 ### a. Basic knowledge
