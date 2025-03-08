@@ -2,11 +2,13 @@
 
 ## 0. Base knowledge
 <img src="maxresdefault.jpg" alt="Missing image" width="fit"/>
+If you find this kind of problem intimidating, then you're not ready to be an electrical engineer... yet. Before jumping into EE, you need to become an engineer. An engineer is a problem solver, who breaks down complex problems into smaller easier tasks. Classical mechanics is a great way to practise your engineering skills. It teaches you what you do/don't know, what variable you're trying to solve for, what conditions are implied etc. 
 
 ## 1. Technical Skills
 
 ### a. Basic knowledge
 #### i. Electromagnetic Theory
+
 #### ii. Circuit Theory
 #### iii. Smith chart
 
