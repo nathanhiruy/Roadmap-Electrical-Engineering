@@ -55,8 +55,23 @@ MATLAB, Python, C/C++
 
 ## 5. How to showcase your skills
 ### a. Resume
-Here you need to really flatter yourself, no one is going to do it for you. A resume allows you to summarize who you are, to showcase your experiences and your skills. You can use this resume template [Resume Template](https://github.com/nathanhiruy/Resume-Template)
+Here you need to really flatter yourself, no one is going to do it for you. A resume allows you to summarize who you are, to showcase your experience and your skills. I like the following structure:
+
+Headline: Your name and contact info
+
+Objective: What opportunities are you looking for
+
+Education: School + level of education (Bachelors, Masters etc.). Skip GPA. This section should be high up if you're a student/new grad.
+
+Skills: What languages/tools/standards have you worked with?
+
+Experience: Bullet points, use the XYZ formula, accomplished X as measured by Y, by doing Z. If you don't have industry experience, then put your projects here.
+
+Projects: School and/or personal projects. Extra important if you don't have any industry experience!
+
+You can use this template [Resume Template](https://github.com/nathanhiruy/Resume-Template).
 
 ### b. LinkedIn
+Similar to your resume, but more personal. If you have photos/videos, publications, patents etc., post them here!
 
 Inspired by Ali the Dazzling's "Most Important Skills for Electrical Engineering"
