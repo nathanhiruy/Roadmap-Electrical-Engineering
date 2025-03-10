@@ -49,9 +49,16 @@ MATLAB, Python, C/C++
 
 ## 4. How to learn soft skills
 ### a. Talk to people
+Talking to people will help your ability to convey your ideas and thoughts.
+
 ### b. Put yourself in uncomfortable situations
+In order to grow you need to do things that are uncomfortable. Take on a leadership role even if you don't have any experience. Complete bigger and more complex projects.
+
 ### c. Always ask why
+Don't always assume that the way things are is the "right" way. Ask why they're using this material, why the PCB design has this component etc.
+
 ### d. Read books
+Reading helps improve speech, pacing and expression. You get exposed to different sentence structures, rhythms and tones.  
 
 ## 5. How to showcase your skills
 ### a. Resume
