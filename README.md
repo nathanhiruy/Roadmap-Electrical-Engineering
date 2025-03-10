@@ -44,8 +44,13 @@ MATLAB, Python, C/C++
 
 ## 3. How to learn technical skills
 ### a. Pick a project
+Don't go through the tutorial hell, once you have a grasp of the subject, start building. The problem with tutorials is that they give you the illusion that you're learning but you're actually not. You will fail over and over again in your projects, but you will eventually learn.
+
 ### b. Join a club/team
+Having a team or group of people that are going through the same journey that you are is extremely valuable. Mentors are also very helpful when learning. 
+
 ### c. Internship
+The best way to actually learn industry skills.
 
 ## 4. How to learn soft skills
 ### a. Talk to people
