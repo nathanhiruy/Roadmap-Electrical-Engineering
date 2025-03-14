@@ -38,8 +38,12 @@ MATLAB, Python, C/C++
 ### a. Critical thinking
 ### b. Problem solving
 ### c. Communication
+
 ### d. Opportunity detection
+You need to become observant of your surroundings. When you see an opportunity to get a mentor, connect with your professor, get an internship etc., you need to take it. 
+
 ### e. Tenactiy/High pain tolerance
+This is not for the fainted hearted. You will fail more times than you can count, get frustrated and have imposter syndrome. If you can't grind it out, then the journey will only get harder.
 
 
 ## 3. How to learn technical skills
